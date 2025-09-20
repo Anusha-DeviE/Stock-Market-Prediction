@@ -27,6 +27,8 @@ The CNN extracts short-term patterns, while LSTMs capture long-term dependencies
 - Achieved better accuracy than standalone CNN or LSTM.  
 - Model successfully captured **stock price trends**.  
 
+------
+
 ## 🔹 How to Run
 ```bash
 git clone https://github.com/your-username/stock-trend-cnn-lstm.git
